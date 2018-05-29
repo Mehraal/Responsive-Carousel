@@ -1,37 +1,37 @@
 body {
-    background-color: #000000;
-    margin-top: 40px;
+    background-image: url("http://www.esnc.us/wp-content/uploads/2018/02/black-powerpoint-backgrounds-dark-powerpoint-backgrounds-black-free-ppt-backgrounds-download.jpg");
+    opacity: 1.0;
+    margin-top: 20px;
 }
 
 h1 {
-    color: #37b68c;
+    color: #f0bf20;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
     font-size: 40px;
+    
 }
 
 .d-block {
    margin-top: 20px;
    padding: 10px 40px 10px 40px;
-   
-    
 }
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #37b68c;
+    color: #f0bf20;
     font-size: 30px;
+    font-style: italic;
     text-align: center;
 }
 
 img {
     height: 500px;
-
-    
 }
 
 .carousel-indicators {
-    margin-bottom: 70px;
+    margin-bottom: 80px;
 
 }
 
@@ -47,10 +47,10 @@ img {
         color: #000000;
     }
     h1 {
-        color: black;
+        color: white;
     }
     p {
-        color: black;
+        color: white;
     } 
 
 
@@ -67,10 +67,10 @@ img {
         color: #000000;
     } 
     h1 {
-        color: black;
+        color: white;
     }
     p {
-        color: black;
+        color: white;
     } 
     
 }
@@ -85,10 +85,10 @@ img {
         color: #000000;
     } 
     h1 {
-        color: black;
+        color: white;
     }
     p {
-        color: black;
+        color: white;
     } 
 
 }
