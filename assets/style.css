@@ -1,6 +1,6 @@
 body {
     background-image: url("http://www.esnc.us/wp-content/uploads/2018/02/black-powerpoint-backgrounds-dark-powerpoint-backgrounds-black-free-ppt-backgrounds-download.jpg");
-    opacity: 1.0;
+    opacity: 0.9;
     margin-top: 20px;
 }
 .navbar {
@@ -14,7 +14,7 @@ h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    font-size: 40px;
+    font-size: 30px;
     
 }
 
@@ -33,6 +33,7 @@ p {
 
 img {
     height: 500px;
+    position: relative;
 }
 
 .carousel-indicators {
